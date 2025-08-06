@@ -19,7 +19,7 @@ This project was developed during my Data Analyst Internship at InLighnX Global 
 - Excel
 
 ### 🔗 Live Report
-[View Dashboard](YOUR_POWER_BI_LINK_HERE)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdhMjczZWYtZTFlYi00ZmEyLWFlODgtYTQ2M2Y1OWU4ZGUzIiwidCI6IjgxYmI5YmY5LTI3OTctNGZlNS05NWRmLTZlMDkwOTliNjgxMSJ9)
 
 ---
 
